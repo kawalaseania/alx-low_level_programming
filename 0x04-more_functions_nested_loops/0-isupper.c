@@ -1,11 +1,10 @@
-#include <stdio.h>
 #include "main.h"
 /**
  *_isupper(int c)- checks if a string passed is uppercase
  *Return: 1 or 0
  */
 
-_isupper(int c)
+int _isupper(int c)
 {
 	if (c >= && c <= 90)
 	{
