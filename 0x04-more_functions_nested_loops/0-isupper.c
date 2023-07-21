@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /**
  *_isupper(int c)- checks if a string passed is uppercase
  *Return: 1 or 0
