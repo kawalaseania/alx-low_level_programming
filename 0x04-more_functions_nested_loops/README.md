@@ -1,5 +1,5 @@
 # 0x04. C - More Functions, More Nested Loops
-<img src="../me.png" width="100px" height="100px" fload="right" margin="10px" alt="Tarnue Pythagoras Borbor">
+<img src="../me.png" width="100%" fload="right" margin="10px" alt="Tarnue Pythagoras Borbor">
 Welcome to the fourth installment of our C programming series! In this article, we will continue exploring the fascinating world of functions and delve deeper into nested loops. By mastering these concepts, you'll become a more proficient C programmer and be ready to tackle even more complex challenges. So let's get started!
 
 ## I. Advanced Function Concepts
