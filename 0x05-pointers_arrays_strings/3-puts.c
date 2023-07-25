@@ -1,20 +1,16 @@
-#include <string.h>
 #include "main.h"
 
 /**
- * _puts - takes parameters of string characters and prints
- * @str: is the parameter passed
- * Return: nothing since it's void
+ * _puts - prints a string to stdout
+ * @str: pointer to the string to print
  */
-
 void _puts(char *str)
 {
 	int i;
-	int lenstr;
 
-	lenstr = strlen(str);
-
-	for (i = 0; i <= lenstr; i++)
-		_putchar (str[i]);
+	for (i = 0; str[i] != '\0'; i++)
+	{
+		_putchar(str[i]);
+	}
 	_putchar('\n');
 }
